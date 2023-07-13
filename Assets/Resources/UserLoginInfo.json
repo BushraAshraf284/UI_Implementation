@@ -1,0 +1,29 @@
+{
+    "Users":[
+    {
+      "ID": 1,
+      "loggedIn": 0,
+      "name": "Bushra",
+      "email": "bushra.ashraf@gmail.com",
+      "phone": "3024418180",
+      "password": "Hello123"
+    },
+    {
+      "ID": 2,
+      "loggedIn": 0,
+      "name": "Hamood",
+      "email": "reech@gmail.com",
+      "phone": "9007860120",
+      "password": "Reech123"
+    },
+    {
+      "ID": 1,
+      "loggedIn": 0,
+      "name": "Sehar",
+      "email": "SehuStick@gmail.com",
+      "phone": "3007766887",
+      "password": "Stick123"
+    }
+    
+  ]
+  }
